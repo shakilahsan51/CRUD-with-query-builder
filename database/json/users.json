@@ -1,0 +1,50 @@
+[
+    {
+        "name": "shakil",
+        "email": "shakil@gmail.com",
+        "age": 28,
+        "city": "Kushtia"
+    },
+    {
+        "name": "sumaiya",
+        "email": "sumaiya@gmail.com",
+        "age": 24,
+        "city": "Dhaka"
+    },
+    {
+        "name": "rana",
+        "email": "rana@gmail.com",
+        "age": 30,
+        "city": "Rajshahi"
+    },
+    {
+        "name": "maria",
+        "email": "maria@gmail.com",
+        "age": 26,
+        "city": "Khulna"
+    },
+    {
+        "name": "nahid",
+        "email": "nahid@gmail.com",
+        "age": 29,
+        "city": "Barishal"
+    },
+    {
+        "name": "tania",
+        "email": "tania@gmail.com",
+        "age": 25,
+        "city": "Sylhet"
+    },
+    {
+        "name": "arif",
+        "email": "arif@gmail.com",
+        "age": 27,
+        "city": "Chittagong"
+    },
+    {
+        "name": "mahmud",
+        "email": "mahmud@gmail.com",
+        "age": 31,
+        "city": "Rangpur"
+    }
+]
